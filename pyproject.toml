@@ -1,0 +1,60 @@
+[project]
+name = "icpc-pucp-training"
+version = "0.1.0"
+description = "Minimalist infrastructure for managing competitive programming lectures and contests."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "pydantic>=2.12.5",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.15.6",
+    "ty>=0.0.23",
+]
+
+[tool.ruff]
+target-version = "py314"
+indent-width = 4
+line-length = 100
+exclude = [
+    ".git",
+    ".ruff_cache",
+    ".venv",
+    "__pypackages__",
+    "build",
+    "dist",
+    "venv",
+]
+
+[tool.ruff.lint]
+select = [
+    "E",   # pycodestyle errors
+    "W",   # pycodestyle warnings
+    "F",   # pyflakes
+    "I",   # isort
+    "UP",  # pyupgrade (modernizes syntax)
+    "RUF", # ruff-specific rules
+    "B",   # flake8-bugbear (finds likely bugs)
+    "SIM", # flake8-simplify (simplifies code)
+    "PT",  # flake8-pytest-style (standardizes tests)
+    "RET", # flake8-return (checks return values)
+]
+ignore = [
+    "E501", # Line too long (handled by the formatter)
+]
+
+[tool.ruff.lint.isort]
+combine-as-imports = true
+
+[tool.ruff.format]
+docstring-code-format = true
+docstring-code-line-length = 100
+indent-style = "space"
+line-ending = "auto"
+quote-style = "double"
+
+[tool.ty.environment]
+python-version = "3.14"
+root = ["./src"]
