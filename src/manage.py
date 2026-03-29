@@ -21,14 +21,36 @@ def load_problems() -> list[Problem]:
     return problems
 
 
-def append_to_timeline(
+def add_lecture(args):
+    try:
+        LectureTag(args.lecture)
+    except ValueError:
+        print(f"Error: '{args.lecture}' is not a valid LectureTag.")
+        return
+
+    filename = f"data/timeline_{args.year}.csv"
+    file_exists = os.path.isfile(filename)
+
+    with open(filename, mode="a", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        if not file_exists:
+            writer.writerow(["date", "lecture"])
+
+        writer.writerow([date.today().isoformat(), args.lecture])
+
+    print(
+        f"Lecture '{args.lecture}' added to timeline_{args.year}.csv on {date.today().isoformat()}"
+    )
+
+
+def add_contest(
     year: int,
     lecture: str,
     easy: list[Problem],
     medium: list[Problem],
     hard: list[Problem],
 ):
-    filename = f"data/timeline_{year}.csv"
+    filename = f"data/contests_{year}.csv"
     file_exists = os.path.isfile(filename)
 
     with open(filename, mode="a", encoding="utf-8", newline="") as f:
@@ -85,7 +107,7 @@ def generate_contest(args):
     selected_medium = random.sample(pool[Difficulty.MEDIUM], args.medium)
     selected_hard = random.sample(pool[Difficulty.HARD], args.hard)
 
-    append_to_timeline(args.year, args.lecture, selected_easy, selected_medium, selected_hard)
+    add_contest(args.year, args.lecture, selected_easy, selected_medium, selected_hard)
 
     print(f"Contest generated and saved to timeline_{args.year}.csv!")
     print("\n--- Contest Problem Set ---")
@@ -97,13 +119,17 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="PUCP ICPC lectures and problem sets.")
     subparsers = parser.add_subparsers(dest="command", required=True)
 
+    parser_add = subparsers.add_parser("add-lecture")
+    parser_add.add_argument("--year", type=int, required=True)
+    parser_add.add_argument("--lecture", type=str, required=True)
+    parser_add.set_defaults(func=add_lecture)
+
     parser_gen = subparsers.add_parser("generate-contest")
     parser_gen.add_argument("--year", type=int, required=True)
     parser_gen.add_argument("--lecture", type=str, required=True)
     parser_gen.add_argument("--easy", type=int, default=0)
     parser_gen.add_argument("--medium", type=int, default=0)
     parser_gen.add_argument("--hard", type=int, default=0)
-
     parser_gen.set_defaults(func=generate_contest)
 
     args = parser.parse_args()
