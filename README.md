@@ -28,7 +28,7 @@ $ make generate YEAR=2026 LECTURE=segment-tree EASY=2 MEDIUM=2 HARD=1
 
 The contest will be persisted in `data/timeline_{YEAR}.csv`.
 
-## For new students
+## For new competitors
 
 If you are on Windows, follow this [tutorial to install and setup VSCode and a C++ compiler](https://code.visualstudio.com/docs/cpp/config-mingw).
 

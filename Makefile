@@ -1,5 +1,9 @@
 .PHONY: help setup generate
 
+EASY ?= 0
+MEDIUM ?= 0
+HARD ?= 0
+
 help:
 	@echo "Available commands:"
 	@echo "  make setup            - Install dependencies using uv"

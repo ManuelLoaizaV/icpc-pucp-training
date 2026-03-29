@@ -42,9 +42,9 @@ def append_to_timeline(
             [
                 date.today().isoformat(),
                 lecture,
-                " | ".join([p.name for p in easy]),
-                " | ".join([p.name for p in medium]),
-                " | ".join([p.name for p in hard]),
+                "|".join([p.name for p in easy]),
+                "|".join([p.name for p in medium]),
+                "|".join([p.name for p in hard]),
             ]
         )
 
