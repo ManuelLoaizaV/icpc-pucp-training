@@ -15,11 +15,11 @@ class Judge(StrEnum):
     KATTIS = "kattis"
     CSES = "cses"
     USACO = "usaco"
+    HACKERRANK = "hackerrank"
 
 
 class LectureTag(StrEnum):
     CPP = "c++"
-    CONDITIONALS = "if-else"
     LOOPS = "for-while"
     ARRAYS = "arrays"
     STRINGS = "strings"
