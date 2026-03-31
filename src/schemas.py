@@ -20,6 +20,7 @@ class Judge(StrEnum):
 
 class LectureTag(StrEnum):
     CPP = "c++"
+    BOOLEAN_EXPR = "if-else"
     LOOPS = "for-while"
     ARRAYS = "arrays"
     STRINGS = "strings"
