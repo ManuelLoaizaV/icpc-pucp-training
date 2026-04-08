@@ -1,36 +1,58 @@
 name,url,judge,difficulty,lectures
-"Say ""Hello, World!"" With C++","https://www.hackerrank.com/challenges/cpp-hello-world/problem",hackerrank,easy,c++
-"Solve Me First","https://www.hackerrank.com/challenges/solve-me-first/problem",hackerrank,easy,c++
-"Basic Data Types","https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem",hackerrank,easy,c++
-"T or T","https://atcoder.jp/contests/abc133/tasks/abc133_a",atcoder,easy,c++
-"Serval vs Monster","https://atcoder.jp/contests/abc153/tasks/abc153_a",atcoder,easy,c++
-"Next Alphabet","https://atcoder.jp/contests/abc151/tasks/abc151_a",atcoder,easy,c++
-"Round One","https://atcoder.jp/contests/abc148/tasks/abc148_a",atcoder,easy,c++
-"The Numbers of Even Pairs","https://atcoder.jp/contests/abc159/tasks/abc159_a",atcoder,easy,c++
-"Counterclockwise Rotation","https://atcoder.jp/contests/abc259/tasks/abc259_b",atcoder,medium,c++
-"Input and Output","https://www.hackerrank.com/challenges/cpp-input-and-output/problem",hackerrank,easy,c++
-"Iroha and Haiku (ABC Edition)","https://atcoder.jp/contests/abc042/tasks/abc042_a",atcoder,medium,c++
-"AcCepted","https://atcoder.jp/contests/abc104/tasks/abc104_b",atcoder,easy,strings
-"Postal Code","https://atcoder.jp/contests/abc084/tasks/abc084_b",atcoder,easy,strings
-"AtCoder Beginner Contest 111","https://atcoder.jp/contests/abc111/tasks/abc111_b",atcoder,medium,c++
-"Watermelon","https://codeforces.com/problemset/problem/4/A",codeforces,easy,if-else
-"Theatre Square","https://codeforces.com/problemset/problem/1/A",codeforces,medium,c++
-"Elephant","https://codeforces.com/problemset/problem/617/A",codeforces,easy,c++
-"Domino piling","https://codeforces.com/problemset/problem/50/A",codeforces,easy,c++
-"Calculating Function","https://codeforces.com/problemset/problem/486/A",codeforces,hard,if-else
-"Expression","https://codeforces.com/problemset/problem/479/A",codeforces,medium,if-else
-"Vasya the Hipster","https://codeforces.com/problemset/problem/581/A",codeforces,easy,if-else
-"Product","https://atcoder.jp/contests/abs/tasks/abc086_a",atcoder,easy,if-else
-"RGB Cards","https://atcoder.jp/contests/abc064/tasks/abc064_a",atcoder,easy,if-else
-"K-City","https://atcoder.jp/contests/abc069/tasks/abc069_a",atcoder,easy,c++
-"One out of Three","https://atcoder.jp/contests/abc075/tasks/abc075_a",atcoder,medium,if-else
-"Station and Bus","https://atcoder.jp/contests/abc158/tasks/abc158_a",atcoder,easy,strings
-"ABC Swap","https://atcoder.jp/contests/abc161/tasks/abc161_a",atcoder,easy,c++
-"Takoyaki","https://atcoder.jp/contests/abc176/tasks/abc176_a",atcoder,easy,c++
-"Very Very Primitive Game","https://atcoder.jp/contests/abc190/tasks/abc190_a",atcoder,medium,if-else
-"Century","https://atcoder.jp/contests/abc200/tasks/abc200_a",atcoder,easy,c++
-"Cabbages","https://atcoder.jp/contests/abc210/tasks/abc210_a",atcoder,easy,if-else
-"Square Inequality","https://atcoder.jp/contests/abc199/tasks/abc199_a",atcoder,easy,if-else
-"Half and Half","https://atcoder.jp/contests/abc095/tasks/arc096_a",atcoder,hard,if-else
-"Good Integer","https://atcoder.jp/contests/abc079/tasks/abc079_a",atcoder,easy,if-else
-"Conditional Statements","https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem",hackerrank,easy,if-else
+"Say ""Hello, World!"" With C++",https://www.hackerrank.com/challenges/cpp-hello-world/problem,hackerrank,easy,c++
+Solve Me First,https://www.hackerrank.com/challenges/solve-me-first/problem,hackerrank,easy,c++
+Basic Data Types,https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem,hackerrank,easy,c++
+T or T,https://atcoder.jp/contests/abc133/tasks/abc133_a,atcoder,easy,c++
+Serval vs Monster,https://atcoder.jp/contests/abc153/tasks/abc153_a,atcoder,easy,c++
+Next Alphabet,https://atcoder.jp/contests/abc151/tasks/abc151_a,atcoder,easy,c++
+Round One,https://atcoder.jp/contests/abc148/tasks/abc148_a,atcoder,easy,c++
+The Numbers of Even Pairs,https://atcoder.jp/contests/abc159/tasks/abc159_a,atcoder,easy,c++
+Counterclockwise Rotation,https://atcoder.jp/contests/abc259/tasks/abc259_b,atcoder,medium,c++
+Input and Output,https://www.hackerrank.com/challenges/cpp-input-and-output/problem,hackerrank,easy,c++
+Iroha and Haiku (ABC Edition),https://atcoder.jp/contests/abc042/tasks/abc042_a,atcoder,medium,c++
+AcCepted,https://atcoder.jp/contests/abc104/tasks/abc104_b,atcoder,easy,strings
+Postal Code,https://atcoder.jp/contests/abc084/tasks/abc084_b,atcoder,easy,strings
+AtCoder Beginner Contest 111,https://atcoder.jp/contests/abc111/tasks/abc111_b,atcoder,medium,c++
+Watermelon,https://codeforces.com/problemset/problem/4/A,codeforces,easy,if-else
+Theatre Square,https://codeforces.com/problemset/problem/1/A,codeforces,medium,c++
+Elephant,https://codeforces.com/problemset/problem/617/A,codeforces,easy,c++
+Domino piling,https://codeforces.com/problemset/problem/50/A,codeforces,easy,c++
+Calculating Function,https://codeforces.com/problemset/problem/486/A,codeforces,hard,if-else
+Expression,https://codeforces.com/problemset/problem/479/A,codeforces,medium,if-else
+Vasya the Hipster,https://codeforces.com/problemset/problem/581/A,codeforces,easy,if-else
+Product,https://atcoder.jp/contests/abs/tasks/abc086_a,atcoder,easy,if-else
+RGB Cards,https://atcoder.jp/contests/abc064/tasks/abc064_a,atcoder,easy,if-else
+K-City,https://atcoder.jp/contests/abc069/tasks/abc069_a,atcoder,easy,c++
+One out of Three,https://atcoder.jp/contests/abc075/tasks/abc075_a,atcoder,medium,if-else
+Station and Bus,https://atcoder.jp/contests/abc158/tasks/abc158_a,atcoder,easy,strings
+ABC Swap,https://atcoder.jp/contests/abc161/tasks/abc161_a,atcoder,easy,c++
+Takoyaki,https://atcoder.jp/contests/abc176/tasks/abc176_a,atcoder,easy,c++
+Very Very Primitive Game,https://atcoder.jp/contests/abc190/tasks/abc190_a,atcoder,medium,if-else
+Century,https://atcoder.jp/contests/abc200/tasks/abc200_a,atcoder,easy,c++
+Cabbages,https://atcoder.jp/contests/abc210/tasks/abc210_a,atcoder,easy,if-else
+Square Inequality,https://atcoder.jp/contests/abc199/tasks/abc199_a,atcoder,easy,if-else
+Half and Half,https://atcoder.jp/contests/abc095/tasks/arc096_a,atcoder,hard,if-else
+Good Integer,https://atcoder.jp/contests/abc079/tasks/abc079_a,atcoder,easy,if-else
+Conditional Statements,https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem,hackerrank,easy,if-else
+A Different Problem,https://open.kattis.com/problems/different,kattis,easy,for-while
+Mandelbrot,https://open.kattis.com/problems/mandelbrot,kattis,medium,for-while
+Upscaling,https://codeforces.com/problemset/problem/1950/B,codeforces,medium,for-while
+From Hero to Zero,https://codeforces.com/problemset/problem/1175/A,codeforces,medium,for-while
+Clock and Strings,https://codeforces.com/problemset/problem/1971/C,codeforces,hard,for-while
+For Loop,https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem,hackerrank,easy,for-while
+Bear and Big Brother,https://codeforces.com/problemset/problem/791/A,codeforces,easy,for-while
+Bit++,https://codeforces.com/problemset/problem/282/A,codeforces,easy,strings
+Team,https://codeforces.com/problemset/problem/231/A,codeforces,easy,for-while
+Vanya and Fence,https://codeforces.com/problemset/problem/677/A,codeforces,easy,for-while
+Wrong Subtraction,https://codeforces.com/problemset/problem/977/A,codeforces,easy,for-while
+Bounding,https://atcoder.jp/contests/abc130/tasks/abc130_b,atcoder,easy,for-while
+Tram,https://codeforces.com/problemset/problem/116/A,codeforces,medium,for-while
+Young Physicist,https://codeforces.com/problemset/problem/69/A,codeforces,easy,for-while
+Coins,https://atcoder.jp/contests/abc087/tasks/abc087_b,atcoder,hard,for-while
+Some Sums,https://atcoder.jp/contests/abc083/tasks/abc083_b,atcoder,medium,for-while
+Shift only,https://atcoder.jp/contests/abc081/tasks/abc081_b,atcoder,medium,for-while
+Kefa and First Steps,https://codeforces.com/problemset/problem/580/A,codeforces,medium,for-while
+IQ test,https://codeforces.com/problemset/problem/25/A,codeforces,medium,for-while
+Takahashi's Information,https://atcoder.jp/contests/abc088/tasks/abc088_c,atcoder,hard,c++
+Project Euler #1: Multiples of 3 and 5,https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem,hackerrank,hard,for-while
+Even Odds,https://codeforces.com/problemset/problem/318/A,codeforces,medium,c++
