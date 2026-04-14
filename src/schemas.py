@@ -30,6 +30,7 @@ class LectureTag(StrEnum):
     BRUTE_FORCE = "brute-force"
     BACKTRACKING = "backtracking"
     DIVIDE_AND_CONQUER = "divide-and-conquer"
+    INTERACTIVE = "interactive"
 
 
 class Problem(BaseModel):
