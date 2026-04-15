@@ -16,6 +16,7 @@ class Judge(StrEnum):
     CSES = "cses"
     USACO = "usaco"
     HACKERRANK = "hackerrank"
+    SPOJ = "spoj"
 
 
 class LectureTag(StrEnum):
@@ -31,6 +32,7 @@ class LectureTag(StrEnum):
     BACKTRACKING = "backtracking"
     DIVIDE_AND_CONQUER = "divide-and-conquer"
     INTERACTIVE = "interactive"
+    BIPARTITE_GRAPH = "bipartite-graph"
 
 
 class Problem(BaseModel):
