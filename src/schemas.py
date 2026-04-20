@@ -33,6 +33,7 @@ class LectureTag(StrEnum):
     DIVIDE_AND_CONQUER = "divide-and-conquer"
     INTERACTIVE = "interactive"
     BIPARTITE_GRAPH = "bipartite-graph"
+    SPARSE_TABLE = "sparse-table"
 
 
 class Problem(BaseModel):

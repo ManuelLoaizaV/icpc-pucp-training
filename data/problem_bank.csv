@@ -53,7 +53,6 @@ Some Sums,https://atcoder.jp/contests/abc083/tasks/abc083_b,atcoder,medium,for-w
 Shift only,https://atcoder.jp/contests/abc081/tasks/abc081_b,atcoder,medium,for-while
 Kefa and First Steps,https://codeforces.com/problemset/problem/580/A,codeforces,medium,for-while
 IQ test,https://codeforces.com/problemset/problem/25/A,codeforces,medium,for-while
-Takahashi's Information,https://atcoder.jp/contests/abc088/tasks/abc088_c,atcoder,hard,c++
 Project Euler #1: Multiples of 3 and 5,https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem,hackerrank,hard,for-while
 Even Odds,https://codeforces.com/problemset/problem/318/A,codeforces,medium,c++
 Find The Zero,https://codeforces.com/contest/2209/problem/C,codeforces,easy,interactive
@@ -62,3 +61,14 @@ Building Teams,https://cses.fi/problemset/task/1668,cses,easy,bipartite-graph
 String Coloring (easy version),https://codeforces.com/contest/1296/problem/E1,codeforces,medium,bipartite-graph
 Alternating Path,https://codeforces.com/contest/2204/problem/D,codeforces,medium,bipartite-graph
 Graph Without Long Directed Paths,https://codeforces.com/contest/1144/problem/F,codeforces,hard,bipartite-graph
+Static Range Minimum Queries,https://cses.fi/problemset/task/1647,cses,easy,sparse-table
+Where's My Water?,https://codeforces.com/contest/2207/problem/C,codeforces,medium,sparse-table
+Array Stabilization (GCD Version),https://codeforces.com/problemset/problem/1547/F,codeforces,medium,sparse-table
+Nuts,https://atcoder.jp/contests/abc204/tasks/abc204_b,atcoder,easy,for-while
+Permutation Check,https://atcoder.jp/contests/abc205/tasks/abc205_b,atcoder,easy,arrays
+Long Sequence,https://atcoder.jp/contests/abc220/tasks/abc220_c,atcoder,medium,arrays
+Doubled,https://atcoder.jp/contests/abc196/tasks/abc196_c,atcoder,medium,for-while
+Squared Error,https://atcoder.jp/contests/abc194/tasks/abc194_c,atcoder,hard,arrays
+Unexpressed,https://atcoder.jp/contests/abc193/tasks/abc193_c,atcoder,hard,for-while
+Rotation,https://atcoder.jp/contests/abc258/tasks/abc258_c,atcoder,medium,strings
+Takahashi's Information,https://atcoder.jp/contests/abc088/tasks/abc088_c,atcoder,hard,arrays
