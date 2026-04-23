@@ -17,6 +17,7 @@ class Judge(StrEnum):
     USACO = "usaco"
     HACKERRANK = "hackerrank"
     SPOJ = "spoj"
+    YOSUPO = "yosupo"
 
 
 class LectureTag(StrEnum):
