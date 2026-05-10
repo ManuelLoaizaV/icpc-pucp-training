@@ -35,6 +35,7 @@ class LectureTag(StrEnum):
     INTERACTIVE = "interactive"
     BIPARTITE_GRAPH = "bipartite-graph"
     SPARSE_TABLE = "sparse-table"
+    DP = "dp"
 
 
 class Problem(BaseModel):
