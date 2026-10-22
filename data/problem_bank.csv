@@ -117,7 +117,6 @@ Towers,https://cses.fi/problemset/task/1073,cses,medium,stl-associative
 Traffic Lights,https://cses.fi/problemset/task/1163,cses,hard,stl-associative
 Sequence Query,https://atcoder.jp/contests/abc241/tasks/abc241_d,atcoder,hard,stl-associative
 Playlist,https://cses.fi/problemset/task/1141,cses,hard,stl-associative
-Sequence Query,https://atcoder.jp/contests/abc241/tasks/abc241_d,atcoder,hard,stl-associative
 Array Destruction,https://codeforces.com/problemset/problem/1474/C,codeforces,hard,stl-associative
 Interesting drink,https://codeforces.com/problemset/problem/706/B,codeforces,easy,binary-search
 Range Count Query,https://atcoder.jp/contests/abc248/tasks/abc248_d,atcoder,medium,binary-search
@@ -129,3 +128,12 @@ Multiplication Table,https://cses.fi/problemset/task/2422,cses,hard,binary-searc
 Books,https://codeforces.com/problemset/problem/279/B,codeforces,medium,binary-search
 Triangles,https://atcoder.jp/contests/abc143/tasks/abc143_d,atcoder,medium,binary-search
 The Meeting Place Cannot Be Changed,https://codeforces.com/problemset/problem/782/B,codeforces,hard,binary-search
+Maximum Median,https://codeforces.com/problemset/problem/1201/C,codeforces,medium,binary-search
+Magic Powder 2,https://codeforces.com/problemset/problem/670/D2,codeforces,medium,binary-search
+Sagheer and Nubian Market,https://codeforces.com/problemset/problem/812/C,codeforces,medium,binary-search
+Present,https://codeforces.com/problemset/problem/460/C,codeforces,hard,binary-search
+Buy an Integer,https://atcoder.jp/contests/abc146/tasks/abc146_c,atcoder,medium,binary-search
+Maximize the Remaining Coins,https://atcoder.jp/contests/abc216/tasks/abc216_e,atcoder,hard,binary-search
+Number of Pairs,https://codeforces.com/problemset/problem/1538/C,codeforces,medium,stl-algorithms
+NN and the Optical Illusion,https://codeforces.com/problemset/problem/1100/C,codeforces,medium,binary-search
+Hamburgers,https://codeforces.com/problemset/problem/371/C,codeforces,medium,binary-search
