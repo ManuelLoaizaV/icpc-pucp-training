@@ -18,6 +18,7 @@ class Judge(StrEnum):
     HACKERRANK = "hackerrank"
     SPOJ = "spoj"
     YOSUPO = "yosupo"
+    LEETCODE = "leetcode"
 
 
 class LectureTag(StrEnum):
@@ -31,6 +32,7 @@ class LectureTag(StrEnum):
     STL_ASSOCIATIVE = "stl-associative"
     RECURSION = "recursion"
     BINARY_SEARCH = "binary-search"
+    SIEVE = "sieve"
     BRUTE_FORCE = "brute-force"
     BACKTRACKING = "backtracking"
     DIVIDE_AND_CONQUER = "divide-and-conquer"

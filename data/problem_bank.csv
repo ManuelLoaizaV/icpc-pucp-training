@@ -137,3 +137,23 @@ Maximize the Remaining Coins,https://atcoder.jp/contests/abc216/tasks/abc216_e,a
 Number of Pairs,https://codeforces.com/problemset/problem/1538/C,codeforces,medium,stl-algorithms
 NN and the Optical Illusion,https://codeforces.com/problemset/problem/1100/C,codeforces,medium,binary-search
 Hamburgers,https://codeforces.com/problemset/problem/371/C,codeforces,medium,binary-search
+Count Primes,https://leetcode.com/problems/count-primes/,leetcode,easy,sieve
+Sherlock and His Girlfriend,https://codeforces.com/problemset/problem/776/B,codeforces,easy,sieve
+Noldbach problem,https://codeforces.com/problemset/problem/17/A,codeforces,easy,sieve
+Almost Prime,https://codeforces.com/problemset/problem/26/A,codeforces,medium,sieve
+Minimum LCM,https://codeforces.com/problemset/problem/1765/M,codeforces,medium,sieve
+Divide by 2 or 3,https://atcoder.jp/contests/abc276/tasks/abc276_d,atcoder,medium,sieve
+Coprime 2,https://atcoder.jp/contests/abc215/tasks/abc215_d,atcoder,medium,sieve
+N-Factorful,https://www.spoj.com/problems/NFACTOR/,spoj,medium,sieve
+Prime Generator,https://www.spoj.com/problems/PRIME1/,spoj,medium,sieve
+Factorial and Multiple,https://atcoder.jp/contests/abc280/tasks/abc280_d,atcoder,medium,sieve
+Printing Some Primes,https://www.spoj.com/problems/TDPRIMES/,spoj,easy,sieve
+T-primes,https://codeforces.com/problemset/problem/230/B,codeforces,easy,sieve
+Four Divisors,https://leetcode.com/problems/four-divisors/,leetcode,medium,sieve
+Disjoint Set of Common Divisors,https://atcoder.jp/contests/abc142/tasks/abc142_d,atcoder,medium,sieve
+Not Divisible,https://atcoder.jp/contests/abc170/tasks/abc170_d,atcoder,medium,sieve
+Colliders,https://codeforces.com/problemset/problem/154/B,codeforces,medium,sieve
+Primal Fear,https://www.spoj.com/problems/FEAR/,spoj,medium,sieve
+Closest Prime Numbers in Range,https://leetcode.com/problems/closest-prime-numbers-in-range/,leetcode,easy,sieve
+Namit in Trouble,https://www.spoj.com/problems/NGIRL/,spoj,medium,sieve
+A Conjecture of Paul Erdos,https://www.spoj.com/problems/PAUL/,spoj,medium,sieve
