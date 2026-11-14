@@ -34,7 +34,7 @@ class LectureTag(StrEnum):
     BINARY_SEARCH = "binary-search"
     SIEVE = "sieve"
     BRUTE_FORCE = "brute-force"
-    BACKTRACKING = "backtracking"
+    COMPLETE_SEARCH = "complete-search"
     DIVIDE_AND_CONQUER = "divide-and-conquer"
     INTERACTIVE = "interactive"
     BIPARTITE_GRAPH = "bipartite-graph"
