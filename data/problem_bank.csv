@@ -19,6 +19,7 @@ Elephant,https://codeforces.com/problemset/problem/617/A,codeforces,easy,c++
 Domino piling,https://codeforces.com/problemset/problem/50/A,codeforces,easy,c++
 Calculating Function,https://codeforces.com/problemset/problem/486/A,codeforces,hard,if-else
 Expression,https://codeforces.com/problemset/problem/479/A,codeforces,medium,if-else
+Soldier and Bananas,https://codeforces.com/problemset/problem/546/A,codeforces,medium,if-else
 Vasya the Hipster,https://codeforces.com/problemset/problem/581/A,codeforces,easy,if-else
 Product,https://atcoder.jp/contests/abs/tasks/abc086_a,atcoder,easy,if-else
 RGB Cards,https://atcoder.jp/contests/abc064/tasks/abc064_a,atcoder,easy,if-else
@@ -34,7 +35,11 @@ Square Inequality,https://atcoder.jp/contests/abc199/tasks/abc199_a,atcoder,easy
 Half and Half,https://atcoder.jp/contests/abc095/tasks/arc096_a,atcoder,hard,if-else
 Good Integer,https://atcoder.jp/contests/abc079/tasks/abc079_a,atcoder,easy,if-else
 Conditional Statements,https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem,hackerrank,easy,if-else
+In Search of an Easy Problem,https://codeforces.com/problemset/problem/1030/A,codeforces,easy,for-while
+Vanya and Fence,https://codeforces.com/problemset/problem/677/A,codeforces,easy,for-while
+Tram,https://codeforces.com/problemset/problem/116/A,codeforces,easy,for-while
 A Different Problem,https://open.kattis.com/problems/different,kattis,easy,for-while
+Beautiful Matrix,https://codeforces.com/problemset/problem/263/A,codeforces,easy,for-while
 Mandelbrot,https://open.kattis.com/problems/mandelbrot,kattis,medium,for-while
 Upscaling,https://codeforces.com/problemset/problem/1950/B,codeforces,medium,for-while
 From Hero to Zero,https://codeforces.com/problemset/problem/1175/A,codeforces,medium,for-while
@@ -46,9 +51,9 @@ Team,https://codeforces.com/problemset/problem/231/A,codeforces,easy,for-while
 Vanya and Fence,https://codeforces.com/problemset/problem/677/A,codeforces,easy,for-while
 Wrong Subtraction,https://codeforces.com/problemset/problem/977/A,codeforces,easy,for-while
 Bounding,https://atcoder.jp/contests/abc130/tasks/abc130_b,atcoder,easy,for-while
-Tram,https://codeforces.com/problemset/problem/116/A,codeforces,medium,for-while
 Young Physicist,https://codeforces.com/problemset/problem/69/A,codeforces,easy,for-while
 Coins,https://atcoder.jp/contests/abc087/tasks/abc087_b,atcoder,hard,for-while
+Nearly Lucky Number,https://codeforces.com/problemset/problem/110/A,codeforces,medium,for-while
 Some Sums,https://atcoder.jp/contests/abc083/tasks/abc083_b,atcoder,medium,for-while
 Shift only,https://atcoder.jp/contests/abc081/tasks/abc081_b,atcoder,medium,for-while
 Kefa and First Steps,https://codeforces.com/problemset/problem/580/A,codeforces,medium,for-while
@@ -71,6 +76,8 @@ Doubled,https://atcoder.jp/contests/abc196/tasks/abc196_c,atcoder,medium,for-whi
 Squared Error,https://atcoder.jp/contests/abc194/tasks/abc194_c,atcoder,hard,arrays
 Unexpressed,https://atcoder.jp/contests/abc193/tasks/abc193_c,atcoder,hard,for-while
 Rotation,https://atcoder.jp/contests/abc258/tasks/abc258_c,atcoder,medium,strings
+Queue at the School,https://codeforces.com/problemset/problem/266/B,codeforces,medium,strings
+Ultra-fast Mathematician,https://codeforces.com/problemset/problem/61/A,codeforces,easy,strings
 Takahashi's Information,https://atcoder.jp/contests/abc088/tasks/abc088_c,atcoder,hard,arrays
 Portal,https://codeforces.com/contest/2200/problem/D,codeforces,hard,arrays
 Static Range Sum,https://judge.yosupo.jp/problem/static_range_sum,yosupo,easy,arrays
@@ -81,6 +88,7 @@ Subsequences Summing to Sevens,https://usaco.org/index.php?page=viewproblem2&cpi
 Maximum Subarray Sum,https://cses.fi/problemset/task/1643,cses,medium,arrays
 Forest Queries,https://cses.fi/problemset/task/1652,cses,easy,arrays
 Greg and Array,https://codeforces.com/contest/295/problem/A,codeforces,medium,arrays
+Anton and Danik,https://codeforces.com/problemset/problem/734/A,codeforces,easy,strings
 Way Too Long Words,https://codeforces.com/problemset/problem/71/A,codeforces,easy,strings
 Word Capitalization,https://codeforces.com/problemset/problem/281/A,codeforces,easy,strings
 Petya and Strings,https://codeforces.com/problemset/problem/112/A,codeforces,easy,strings
@@ -107,6 +115,7 @@ Rank List,https://codeforces.com/problemset/problem/166/A,codeforces,medium,stl-
 Wonderful Coloring - 2,https://codeforces.com/problemset/problem/1551/B2,codeforces,hard,stl-algorithms
 Distinct Numbers,https://cses.fi/problemset/task/1621,cses,easy,stl-associative
 gacha,https://atcoder.jp/contests/abc164/tasks/abc164_c,atcoder,easy,stl-associative
+Is your horseshoe on the other hoof,https://codeforces.com/problemset/problem/228/A,codeforces,easy,stl-associative
 Registration system,https://codeforces.com/problemset/problem/4/C,codeforces,easy,stl-associative
 Boxes Packing,https://codeforces.com/problemset/problem/903/C,codeforces,easy,stl-associative
 The Kth Time Query,https://atcoder.jp/contests/abc235/tasks/abc235_c,atcoder,easy,stl-associative
@@ -165,3 +174,13 @@ Livestock Lineup,https://usaco.org/index.php?page=viewproblem2&cpid=965,usaco,me
 Beautiful Permutation II,https://cses.fi/problemset/task/3175,cses,medium,complete-search
 Sudoku,https://vjudge.net/problem/HackerRank-sudoku/origin,hackerrank,medium,complete-search
 Three Logos,https://codeforces.com/problemset/problem/581/D,codeforces,hard,complete-search
+Dice Combinations,https://cses.fi/problemset/task/1633/,cses,easy,dp
+Minimizing Coins,https://cses.fi/problemset/task/1634/,cses,easy,dp
+Removing Digits,https://cses.fi/problemset/task/1637/,cses,easy,dp
+Coin Combinations I,https://cses.fi/problemset/task/1635,cses,easy,dp
+Mortal Kombat Tower,https://codeforces.com/problemset/problem/1418/C,codeforces,easy,dp
+"Hoof, Paper, Scissors",https://usaco.org/index.php?page=viewproblem2&cpid=694,usaco,easy,dp
+Phidias,https://dmoj.ca/problem/ioi04p4,dmoj,medium,dp
+Coin Combinations II,https://cses.fi/problemset/task/1636/,cses,medium,dp
+Time is Mooney,https://usaco.org/index.php?page=viewproblem2&cpid=993,usaco,medium,dp
+Increasing Frequency,https://codeforces.com/problemset/problem/1082/E,codeforces,hard,dp

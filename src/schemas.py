@@ -18,6 +18,7 @@ class Judge(StrEnum):
     HACKERRANK = "hackerrank"
     SPOJ = "spoj"
     YOSUPO = "yosupo"
+    DMOJ = "dmoj"
     LEETCODE = "leetcode"
 
 
