@@ -3,6 +3,7 @@
 EASY ?= 0
 MEDIUM ?= 0
 HARD ?= 0
+INSANE ?= 0
 YEAR ?=
 LECTURE ?=
 
@@ -20,4 +21,4 @@ add-lecture:
 	uv run python src/manage.py add-lecture --year $(YEAR) --lecture $(LECTURE)
 
 generate:
-	uv run python src/manage.py generate-contest --year $(YEAR) --lecture $(LECTURE) --easy $(EASY) --medium $(MEDIUM) --hard $(HARD)
+	uv run python src/manage.py generate-contest --year $(YEAR) --lecture $(LECTURE) --easy $(EASY) --medium $(MEDIUM) --hard $(HARD) --insane $(INSANE)

@@ -7,6 +7,7 @@ class Difficulty(StrEnum):
     EASY = "easy"
     MEDIUM = "medium"
     HARD = "hard"
+    INSANE = "insane"
 
 
 class Judge(StrEnum):
@@ -41,6 +42,7 @@ class LectureTag(StrEnum):
     BIPARTITE_GRAPH = "bipartite-graph"
     SPARSE_TABLE = "sparse-table"
     DP = "dp"
+    CONSTRUCTIVE = "constructive"
 
 
 class Problem(BaseModel):
