@@ -11,6 +11,7 @@ Counterclockwise Rotation,https://atcoder.jp/contests/abc259/tasks/abc259_b,atco
 Input and Output,https://www.hackerrank.com/challenges/cpp-input-and-output/problem,hackerrank,easy,c++
 Iroha and Haiku (ABC Edition),https://atcoder.jp/contests/abc042/tasks/abc042_a,atcoder,medium,c++
 AcCepted,https://atcoder.jp/contests/abc104/tasks/abc104_b,atcoder,easy,strings
+Magnets,https://codeforces.com/problemset/problem/344/A,codeforces,easy,strings
 Postal Code,https://atcoder.jp/contests/abc084/tasks/abc084_b,atcoder,easy,strings
 AtCoder Beginner Contest 111,https://atcoder.jp/contests/abc111/tasks/abc111_b,atcoder,medium,c++
 Watermelon,https://codeforces.com/problemset/problem/4/A,codeforces,easy,if-else
@@ -36,6 +37,8 @@ Half and Half,https://atcoder.jp/contests/abc095/tasks/arc096_a,atcoder,hard,if-
 Good Integer,https://atcoder.jp/contests/abc079/tasks/abc079_a,atcoder,easy,if-else
 Conditional Statements,https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem,hackerrank,easy,if-else
 In Search of an Easy Problem,https://codeforces.com/problemset/problem/1030/A,codeforces,easy,for-while
+George and Accommodation,https://codeforces.com/problemset/problem/467/A,codeforces,easy,for-while
+Drinks,https://codeforces.com/problemset/problem/200/B,codeforces,easy,for-while
 Vanya and Fence,https://codeforces.com/problemset/problem/677/A,codeforces,easy,for-while
 Tram,https://codeforces.com/problemset/problem/116/A,codeforces,easy,for-while
 A Different Problem,https://open.kattis.com/problems/different,kattis,easy,for-while
@@ -133,6 +136,7 @@ Range Count Query,https://atcoder.jp/contests/abc248/tasks/abc248_d,atcoder,medi
 Youmu Konpaku and the Duel,https://codeforces.com/contest/2288/problem/A,codeforces,medium,binary-search
 Factory Machines,https://cses.fi/problemset/task/1620,cses,easy,binary-search
 Array Division,https://cses.fi/problemset/task/1085,cses,hard,binary-search
+Yet Another Black Cell Problem,https://codeforces.com/contest/2272/problem/C,codeforces,hard,binary-search
 Keshi Is Throwing a Party,https://codeforces.com/problemset/problem/1610/C,codeforces,hard,binary-search
 Chat Ban,https://codeforces.com/problemset/problem/1612/C,codeforces,medium,binary-search
 Multiplication Table,https://cses.fi/problemset/task/2422,cses,hard,binary-search
