@@ -33,16 +33,16 @@ class LectureTag(StrEnum):
     STL_ALGORITHMS = "stl-algorithms"
     STL_ASSOCIATIVE = "stl-associative"
     RECURSION = "recursion"
-    BINARY_SEARCH = "binary-search"
-    SIEVE = "sieve"
     BRUTE_FORCE = "brute-force"
     COMPLETE_SEARCH = "complete-search"
+    BINARY_SEARCH = "binary-search"
     DIVIDE_AND_CONQUER = "divide-and-conquer"
-    INTERACTIVE = "interactive"
-    BIPARTITE_GRAPH = "bipartite-graph"
-    SPARSE_TABLE = "sparse-table"
-    DP = "dp"
     CONSTRUCTIVE = "constructive"
+    INTERACTIVE = "interactive"
+    DP = "dp"
+    SIEVE = "sieve"
+    SPARSE_TABLE = "sparse-table"
+    BIPARTITE_GRAPH = "bipartite-graph"
 
 
 class Problem(BaseModel):
@@ -51,6 +51,8 @@ class Problem(BaseModel):
     judge: Judge
     difficulty: Difficulty
     lectures: list[LectureTag]
+    must_solve: bool = False
+    comment: str = ""
 
     @field_validator("lectures", mode="before")
     @classmethod

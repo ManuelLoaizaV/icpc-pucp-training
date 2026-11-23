@@ -1,195 +1,195 @@
-name,url,judge,difficulty,lectures
-"Say ""Hello, World!"" With C++",https://www.hackerrank.com/challenges/cpp-hello-world/problem,hackerrank,easy,c++
-Solve Me First,https://www.hackerrank.com/challenges/solve-me-first/problem,hackerrank,easy,c++
-Basic Data Types,https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem,hackerrank,easy,c++
-T or T,https://atcoder.jp/contests/abc133/tasks/abc133_a,atcoder,easy,c++
-Serval vs Monster,https://atcoder.jp/contests/abc153/tasks/abc153_a,atcoder,easy,c++
-Next Alphabet,https://atcoder.jp/contests/abc151/tasks/abc151_a,atcoder,easy,c++
-Round One,https://atcoder.jp/contests/abc148/tasks/abc148_a,atcoder,easy,c++
-The Numbers of Even Pairs,https://atcoder.jp/contests/abc159/tasks/abc159_a,atcoder,easy,c++
-Counterclockwise Rotation,https://atcoder.jp/contests/abc259/tasks/abc259_b,atcoder,medium,c++
-Input and Output,https://www.hackerrank.com/challenges/cpp-input-and-output/problem,hackerrank,easy,c++
-Iroha and Haiku (ABC Edition),https://atcoder.jp/contests/abc042/tasks/abc042_a,atcoder,medium,c++
-AcCepted,https://atcoder.jp/contests/abc104/tasks/abc104_b,atcoder,easy,strings
-Magnets,https://codeforces.com/problemset/problem/344/A,codeforces,easy,strings
-Postal Code,https://atcoder.jp/contests/abc084/tasks/abc084_b,atcoder,easy,strings
-AtCoder Beginner Contest 111,https://atcoder.jp/contests/abc111/tasks/abc111_b,atcoder,medium,c++
-Watermelon,https://codeforces.com/problemset/problem/4/A,codeforces,easy,if-else
-Theatre Square,https://codeforces.com/problemset/problem/1/A,codeforces,medium,c++
-Elephant,https://codeforces.com/problemset/problem/617/A,codeforces,easy,c++
-Domino piling,https://codeforces.com/problemset/problem/50/A,codeforces,easy,c++
-Calculating Function,https://codeforces.com/problemset/problem/486/A,codeforces,hard,if-else
-Expression,https://codeforces.com/problemset/problem/479/A,codeforces,medium,if-else
-Soldier and Bananas,https://codeforces.com/problemset/problem/546/A,codeforces,medium,if-else
-Vasya the Hipster,https://codeforces.com/problemset/problem/581/A,codeforces,easy,if-else
-Product,https://atcoder.jp/contests/abs/tasks/abc086_a,atcoder,easy,if-else
-RGB Cards,https://atcoder.jp/contests/abc064/tasks/abc064_a,atcoder,easy,if-else
-K-City,https://atcoder.jp/contests/abc069/tasks/abc069_a,atcoder,easy,c++
-One out of Three,https://atcoder.jp/contests/abc075/tasks/abc075_a,atcoder,medium,if-else
-Station and Bus,https://atcoder.jp/contests/abc158/tasks/abc158_a,atcoder,easy,strings
-ABC Swap,https://atcoder.jp/contests/abc161/tasks/abc161_a,atcoder,easy,c++
-Takoyaki,https://atcoder.jp/contests/abc176/tasks/abc176_a,atcoder,easy,c++
-Very Very Primitive Game,https://atcoder.jp/contests/abc190/tasks/abc190_a,atcoder,medium,if-else
-Century,https://atcoder.jp/contests/abc200/tasks/abc200_a,atcoder,easy,c++
-Cabbages,https://atcoder.jp/contests/abc210/tasks/abc210_a,atcoder,easy,if-else
-Square Inequality,https://atcoder.jp/contests/abc199/tasks/abc199_a,atcoder,easy,if-else
-Half and Half,https://atcoder.jp/contests/abc095/tasks/arc096_a,atcoder,hard,if-else
-Good Integer,https://atcoder.jp/contests/abc079/tasks/abc079_a,atcoder,easy,if-else
-Conditional Statements,https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem,hackerrank,easy,if-else
-In Search of an Easy Problem,https://codeforces.com/problemset/problem/1030/A,codeforces,easy,for-while
-George and Accommodation,https://codeforces.com/problemset/problem/467/A,codeforces,easy,for-while
-Drinks,https://codeforces.com/problemset/problem/200/B,codeforces,easy,for-while
-Vanya and Fence,https://codeforces.com/problemset/problem/677/A,codeforces,easy,for-while
-Tram,https://codeforces.com/problemset/problem/116/A,codeforces,easy,for-while
-A Different Problem,https://open.kattis.com/problems/different,kattis,easy,for-while
-Beautiful Matrix,https://codeforces.com/problemset/problem/263/A,codeforces,easy,for-while
-Mandelbrot,https://open.kattis.com/problems/mandelbrot,kattis,medium,for-while
-Upscaling,https://codeforces.com/problemset/problem/1950/B,codeforces,medium,for-while
-From Hero to Zero,https://codeforces.com/problemset/problem/1175/A,codeforces,medium,for-while
-Clock and Strings,https://codeforces.com/problemset/problem/1971/C,codeforces,hard,for-while
-For Loop,https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem,hackerrank,easy,for-while
-Bear and Big Brother,https://codeforces.com/problemset/problem/791/A,codeforces,easy,for-while
-Bit++,https://codeforces.com/problemset/problem/282/A,codeforces,easy,strings
-Team,https://codeforces.com/problemset/problem/231/A,codeforces,easy,for-while
-Vanya and Fence,https://codeforces.com/problemset/problem/677/A,codeforces,easy,for-while
-Wrong Subtraction,https://codeforces.com/problemset/problem/977/A,codeforces,easy,for-while
-Bounding,https://atcoder.jp/contests/abc130/tasks/abc130_b,atcoder,easy,for-while
-Young Physicist,https://codeforces.com/problemset/problem/69/A,codeforces,easy,for-while
-Coins,https://atcoder.jp/contests/abc087/tasks/abc087_b,atcoder,hard,for-while
-Nearly Lucky Number,https://codeforces.com/problemset/problem/110/A,codeforces,medium,for-while
-Some Sums,https://atcoder.jp/contests/abc083/tasks/abc083_b,atcoder,medium,for-while
-Shift only,https://atcoder.jp/contests/abc081/tasks/abc081_b,atcoder,medium,for-while
-Kefa and First Steps,https://codeforces.com/problemset/problem/580/A,codeforces,medium,for-while
-IQ test,https://codeforces.com/problemset/problem/25/A,codeforces,medium,for-while
-Project Euler #1: Multiples of 3 and 5,https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem,hackerrank,hard,for-while
-Even Odds,https://codeforces.com/problemset/problem/318/A,codeforces,medium,c++
-Find The Zero,https://codeforces.com/contest/2209/problem/C,codeforces,easy,interactive
-A Bugs Life,https://www.spoj.com/problems/BUGLIFE,spoj,easy,bipartite-graph
-Building Teams,https://cses.fi/problemset/task/1668,cses,easy,bipartite-graph
-String Coloring (easy version),https://codeforces.com/contest/1296/problem/E1,codeforces,medium,bipartite-graph
-Alternating Path,https://codeforces.com/contest/2204/problem/D,codeforces,medium,bipartite-graph
-Graph Without Long Directed Paths,https://codeforces.com/contest/1144/problem/F,codeforces,hard,bipartite-graph
-Static Range Minimum Queries,https://cses.fi/problemset/task/1647,cses,easy,sparse-table
-Where's My Water?,https://codeforces.com/contest/2207/problem/C,codeforces,medium,sparse-table
-Array Stabilization (GCD Version),https://codeforces.com/problemset/problem/1547/F,codeforces,medium,sparse-table
-Nuts,https://atcoder.jp/contests/abc204/tasks/abc204_b,atcoder,easy,for-while
-Permutation Check,https://atcoder.jp/contests/abc205/tasks/abc205_b,atcoder,easy,arrays
-Long Sequence,https://atcoder.jp/contests/abc220/tasks/abc220_c,atcoder,medium,arrays
-Doubled,https://atcoder.jp/contests/abc196/tasks/abc196_c,atcoder,medium,for-while
-Squared Error,https://atcoder.jp/contests/abc194/tasks/abc194_c,atcoder,hard,arrays
-Unexpressed,https://atcoder.jp/contests/abc193/tasks/abc193_c,atcoder,hard,for-while
-Rotation,https://atcoder.jp/contests/abc258/tasks/abc258_c,atcoder,medium,strings
-Queue at the School,https://codeforces.com/problemset/problem/266/B,codeforces,medium,strings
-Ultra-fast Mathematician,https://codeforces.com/problemset/problem/61/A,codeforces,easy,strings
-Takahashi's Information,https://atcoder.jp/contests/abc088/tasks/abc088_c,atcoder,hard,arrays
-Portal,https://codeforces.com/contest/2200/problem/D,codeforces,hard,arrays
-Static Range Sum,https://judge.yosupo.jp/problem/static_range_sum,yosupo,easy,arrays
-Breed Counting,https://usaco.org/index.php?page=viewproblem2&cpid=572,usaco,easy,arrays
-Hoof Paper Scissors,https://usaco.org/index.php?page=viewproblem2&cpid=691,usaco,medium,arrays
-GCD on Blackboard,https://atcoder.jp/contests/abc125/tasks/abc125_c,atcoder,medium,arrays
-Subsequences Summing to Sevens,https://usaco.org/index.php?page=viewproblem2&cpid=595,usaco,medium,arrays
-Maximum Subarray Sum,https://cses.fi/problemset/task/1643,cses,medium,arrays
-Forest Queries,https://cses.fi/problemset/task/1652,cses,easy,arrays
-Greg and Array,https://codeforces.com/contest/295/problem/A,codeforces,medium,arrays
-Anton and Danik,https://codeforces.com/problemset/problem/734/A,codeforces,easy,strings
-Way Too Long Words,https://codeforces.com/problemset/problem/71/A,codeforces,easy,strings
-Word Capitalization,https://codeforces.com/problemset/problem/281/A,codeforces,easy,strings
-Petya and Strings,https://codeforces.com/problemset/problem/112/A,codeforces,easy,strings
-Translation,https://codeforces.com/problemset/problem/41/A,codeforces,easy,strings
-Chat room,https://codeforces.com/problemset/problem/58/A,codeforces,easy,strings
-String Task,https://codeforces.com/problemset/problem/118/A,codeforces,easy,strings
-Dubstep,https://codeforces.com/problemset/problem/208/A,codeforces,medium,strings
-ss,https://atcoder.jp/contests/abc066/tasks/abc066_b,atcoder,medium,strings
-Daydream,https://atcoder.jp/contests/abc049/tasks/arc065_a,atcoder,medium,strings
-Obtain The String,https://codeforces.com/problemset/problem/1295/C,codeforces,hard,strings
-Remove the Substring (easy version),https://codeforces.com/contest/1203/problem/D1,codeforces,hard,strings
-Say No to Palindromes,https://codeforces.com/problemset/problem/1555/D,codeforces,hard,strings
-Palindromic Characteristics,https://codeforces.com/problemset/problem/835/D,codeforces,medium,dp
-Counting 2,https://atcoder.jp/contests/abc231/tasks/abc231_c,atcoder,easy,stl-algorithms
-Interesting drink,https://codeforces.com/problemset/problem/706/B,codeforces,easy,stl-algorithms
-Queries about less or equal elements,https://codeforces.com/problemset/problem/600/B,codeforces,easy,stl-algorithms
-Worms,https://codeforces.com/problemset/problem/474/B,codeforces,easy,stl-algorithms
-Cheese,https://atcoder.jp/contests/abc229/tasks/abc229_c,atcoder,medium,stl-algorithms
-Sum of Two Values,https://cses.fi/problemset/task/1640,cses,medium,stl-algorithms
-Range Count Query,https://atcoder.jp/contests/abc248/tasks/abc248_d,atcoder,medium,stl-algorithms
-Restaurant Customers,https://cses.fi/problemset/task/1619,cses,medium,stl-algorithms
-Guidebook,https://atcoder.jp/contests/abc128/tasks/abc128_b,atcoder,easy,stl-algorithms
-Rank List,https://codeforces.com/problemset/problem/166/A,codeforces,medium,stl-algorithms
-Reimu Hakurei and the Youkai,https://codeforces.com/contest/2288/problem/C,codeforces,medium,stl-algorithms
-Wonderful Coloring - 2,https://codeforces.com/problemset/problem/1551/B2,codeforces,hard,stl-algorithms
-Winner,https://codeforces.com/contest/2/problem/A,codeforces,medium,stl-associative
-Distinct Numbers,https://cses.fi/problemset/task/1621,cses,easy,stl-associative
-gacha,https://atcoder.jp/contests/abc164/tasks/abc164_c,atcoder,easy,stl-associative
-Is your horseshoe on the other hoof,https://codeforces.com/problemset/problem/228/A,codeforces,easy,stl-associative
-Registration system,https://codeforces.com/problemset/problem/4/C,codeforces,easy,stl-associative
-Boxes Packing,https://codeforces.com/problemset/problem/903/C,codeforces,easy,stl-associative
-The Kth Time Query,https://atcoder.jp/contests/abc235/tasks/abc235_c,atcoder,easy,stl-associative
-Max - Min Query,https://atcoder.jp/contests/abc253/tasks/abc253_c,atcoder,medium,stl-associative
-Colorful Candies,https://atcoder.jp/contests/abc210/tasks/abc210_c,atcoder,medium,stl-associative
-Concert Tickets,https://cses.fi/problemset/task/1091,cses,medium,stl-associative
-Towers,https://cses.fi/problemset/task/1073,cses,medium,stl-associative
-Traffic Lights,https://cses.fi/problemset/task/1163,cses,hard,stl-associative
-Sequence Query,https://atcoder.jp/contests/abc241/tasks/abc241_d,atcoder,hard,stl-associative
-Playlist,https://cses.fi/problemset/task/1141,cses,hard,stl-associative
-Array Destruction,https://codeforces.com/problemset/problem/1474/C,codeforces,hard,stl-associative
-Interesting drink,https://codeforces.com/problemset/problem/706/B,codeforces,easy,binary-search
-Range Count Query,https://atcoder.jp/contests/abc248/tasks/abc248_d,atcoder,medium,binary-search
-Youmu Konpaku and the Duel,https://codeforces.com/contest/2288/problem/A,codeforces,medium,binary-search
-Factory Machines,https://cses.fi/problemset/task/1620,cses,easy,binary-search
-Array Division,https://cses.fi/problemset/task/1085,cses,hard,binary-search
-Yet Another Black Cell Problem,https://codeforces.com/contest/2272/problem/C,codeforces,hard,binary-search
-Keshi Is Throwing a Party,https://codeforces.com/problemset/problem/1610/C,codeforces,hard,binary-search
-Chat Ban,https://codeforces.com/problemset/problem/1612/C,codeforces,medium,binary-search
-Multiplication Table,https://cses.fi/problemset/task/2422,cses,hard,binary-search
-Books,https://codeforces.com/problemset/problem/279/B,codeforces,medium,binary-search
-Triangles,https://atcoder.jp/contests/abc143/tasks/abc143_d,atcoder,medium,binary-search
-The Meeting Place Cannot Be Changed,https://codeforces.com/problemset/problem/782/B,codeforces,hard,binary-search
-Maximum Median,https://codeforces.com/problemset/problem/1201/C,codeforces,medium,binary-search
-Magic Powder 2,https://codeforces.com/problemset/problem/670/D2,codeforces,medium,binary-search
-Sagheer and Nubian Market,https://codeforces.com/problemset/problem/812/C,codeforces,medium,binary-search
-Present,https://codeforces.com/problemset/problem/460/C,codeforces,hard,binary-search
-Buy an Integer,https://atcoder.jp/contests/abc146/tasks/abc146_c,atcoder,medium,binary-search
-Maximize the Remaining Coins,https://atcoder.jp/contests/abc216/tasks/abc216_e,atcoder,hard,binary-search
-Number of Pairs,https://codeforces.com/problemset/problem/1538/C,codeforces,medium,stl-algorithms
-NN and the Optical Illusion,https://codeforces.com/problemset/problem/1100/C,codeforces,medium,binary-search
-Hamburgers,https://codeforces.com/problemset/problem/371/C,codeforces,medium,binary-search
-Count Primes,https://leetcode.com/problems/count-primes/,leetcode,easy,sieve
-Sherlock and His Girlfriend,https://codeforces.com/problemset/problem/776/B,codeforces,easy,sieve
-Noldbach problem,https://codeforces.com/problemset/problem/17/A,codeforces,easy,sieve
-Almost Prime,https://codeforces.com/problemset/problem/26/A,codeforces,medium,sieve
-Minimum LCM,https://codeforces.com/problemset/problem/1765/M,codeforces,medium,sieve
-Divide by 2 or 3,https://atcoder.jp/contests/abc276/tasks/abc276_d,atcoder,medium,sieve
-Coprime 2,https://atcoder.jp/contests/abc215/tasks/abc215_d,atcoder,medium,sieve
-N-Factorful,https://www.spoj.com/problems/NFACTOR/,spoj,medium,sieve
-Prime Generator,https://www.spoj.com/problems/PRIME1/,spoj,medium,sieve
-Factorial and Multiple,https://atcoder.jp/contests/abc280/tasks/abc280_d,atcoder,medium,sieve
-Printing Some Primes,https://www.spoj.com/problems/TDPRIMES/,spoj,easy,sieve
-T-primes,https://codeforces.com/problemset/problem/230/B,codeforces,easy,sieve
-Four Divisors,https://leetcode.com/problems/four-divisors/,leetcode,medium,sieve
-Disjoint Set of Common Divisors,https://atcoder.jp/contests/abc142/tasks/abc142_d,atcoder,medium,sieve
-Not Divisible,https://atcoder.jp/contests/abc170/tasks/abc170_d,atcoder,medium,sieve
-Colliders,https://codeforces.com/problemset/problem/154/B,codeforces,medium,sieve
-Primal Fear,https://www.spoj.com/problems/FEAR/,spoj,medium,sieve
-Closest Prime Numbers in Range,https://leetcode.com/problems/closest-prime-numbers-in-range/,leetcode,easy,sieve
-Namit in Trouble,https://www.spoj.com/problems/NGIRL/,spoj,medium,sieve
-A Conjecture of Paul Erdos,https://www.spoj.com/problems/PAUL/,spoj,medium,sieve
-Apple Division,https://cses.fi/problemset/task/1623,cses,easy,complete-search
-Creating Strings,https://cses.fi/problemset/task/1622,cses,easy,complete-search
-Chessboard and Queens,https://cses.fi/problemset/task/1624,cses,medium,complete-search
-Air Cownditioning II,https://usaco.org/index.php?page=viewproblem2&cpid=1276,usaco,medium,complete-search
-Livestock Lineup,https://usaco.org/index.php?page=viewproblem2&cpid=965,usaco,medium,complete-search
-Beautiful Permutation II,https://cses.fi/problemset/task/3175,cses,medium,complete-search
-Sudoku,https://vjudge.net/problem/HackerRank-sudoku/origin,hackerrank,medium,complete-search
-Three Logos,https://codeforces.com/problemset/problem/581/D,codeforces,hard,complete-search
-Dice Combinations,https://cses.fi/problemset/task/1633/,cses,easy,dp
-Minimizing Coins,https://cses.fi/problemset/task/1634/,cses,easy,dp
-Removing Digits,https://cses.fi/problemset/task/1637/,cses,easy,dp
-Coin Combinations I,https://cses.fi/problemset/task/1635,cses,easy,dp
-Mortal Kombat Tower,https://codeforces.com/problemset/problem/1418/C,codeforces,easy,dp
-Yukari Yakumo and the Boundary Stones (Easy Version),https://codeforces.com/contest/2288/problem/B1,codeforces,easy,dp
-"Hoof, Paper, Scissors",https://usaco.org/index.php?page=viewproblem2&cpid=694,usaco,easy,dp
-Phidias,https://dmoj.ca/problem/ioi04p4,dmoj,medium,dp
-Coin Combinations II,https://cses.fi/problemset/task/1636/,cses,medium,dp
-Time is Mooney,https://usaco.org/index.php?page=viewproblem2&cpid=993,usaco,medium,dp
-Increasing Frequency,https://codeforces.com/problemset/problem/1082/E,codeforces,hard,dp
-Yukari Yakumo and the BoundaryStones (HardVersion),https://codeforces.com/contest/2288/problem/B2,codeforces,medium,constructive
+name,url,judge,difficulty,lectures,must_solve,comment
+T or T,https://atcoder.jp/contests/abc133/tasks/abc133_a,atcoder,easy,c++,false,
+Serval vs Monster,https://atcoder.jp/contests/abc153/tasks/abc153_a,atcoder,easy,c++,false,
+Next Alphabet,https://atcoder.jp/contests/abc151/tasks/abc151_a,atcoder,easy,c++,false,
+Round One,https://atcoder.jp/contests/abc148/tasks/abc148_a,atcoder,easy,c++,false,
+The Numbers of Even Pairs,https://atcoder.jp/contests/abc159/tasks/abc159_a,atcoder,easy,c++,false,
+K-City,https://atcoder.jp/contests/abc069/tasks/abc069_a,atcoder,easy,c++,false,
+ABC Swap,https://atcoder.jp/contests/abc161/tasks/abc161_a,atcoder,easy,c++,false,
+Takoyaki,https://atcoder.jp/contests/abc176/tasks/abc176_a,atcoder,easy,c++,false,
+Century,https://atcoder.jp/contests/abc200/tasks/abc200_a,atcoder,easy,c++,false,
+Elephant,https://codeforces.com/problemset/problem/617/A,codeforces,easy,c++,false,
+Domino piling,https://codeforces.com/problemset/problem/50/A,codeforces,easy,c++,false,
+"Say ""Hello, World!"" With C++",https://www.hackerrank.com/challenges/cpp-hello-world/problem,hackerrank,easy,c++,false,
+Solve Me First,https://www.hackerrank.com/challenges/solve-me-first/problem,hackerrank,easy,c++,false,
+Basic Data Types,https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/problem,hackerrank,easy,c++,false,
+Input and Output,https://www.hackerrank.com/challenges/cpp-input-and-output/problem,hackerrank,easy,c++,false,
+Counterclockwise Rotation,https://atcoder.jp/contests/abc259/tasks/abc259_b,atcoder,medium,c++,false,
+Iroha and Haiku (ABC Edition),https://atcoder.jp/contests/abc042/tasks/abc042_a,atcoder,medium,c++,false,
+AtCoder Beginner Contest 111,https://atcoder.jp/contests/abc111/tasks/abc111_b,atcoder,medium,c++,false,
+Theatre Square,https://codeforces.com/problemset/problem/1/A,codeforces,medium,c++,false,
+Even Odds,https://codeforces.com/problemset/problem/318/A,codeforces,medium,c++,false,
+Product,https://atcoder.jp/contests/abs/tasks/abc086_a,atcoder,easy,if-else,false,
+RGB Cards,https://atcoder.jp/contests/abc064/tasks/abc064_a,atcoder,easy,if-else,false,
+Cabbages,https://atcoder.jp/contests/abc210/tasks/abc210_a,atcoder,easy,if-else,false,
+Square Inequality,https://atcoder.jp/contests/abc199/tasks/abc199_a,atcoder,easy,if-else,false,
+Good Integer,https://atcoder.jp/contests/abc079/tasks/abc079_a,atcoder,easy,if-else,false,
+Watermelon,https://codeforces.com/problemset/problem/4/A,codeforces,easy,if-else,false,
+Vasya the Hipster,https://codeforces.com/problemset/problem/581/A,codeforces,easy,if-else,false,
+Conditional Statements,https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else/problem,hackerrank,easy,if-else,false,
+One out of Three,https://atcoder.jp/contests/abc075/tasks/abc075_a,atcoder,medium,if-else,false,
+Very Very Primitive Game,https://atcoder.jp/contests/abc190/tasks/abc190_a,atcoder,medium,if-else,false,
+Expression,https://codeforces.com/problemset/problem/479/A,codeforces,medium,if-else,false,
+Soldier and Bananas,https://codeforces.com/problemset/problem/546/A,codeforces,medium,if-else,false,
+Half and Half,https://atcoder.jp/contests/abc095/tasks/arc096_a,atcoder,hard,if-else,false,
+Calculating Function,https://codeforces.com/problemset/problem/486/A,codeforces,hard,if-else,false,
+Bounding,https://atcoder.jp/contests/abc130/tasks/abc130_b,atcoder,easy,for-while,false,
+Nuts,https://atcoder.jp/contests/abc204/tasks/abc204_b,atcoder,easy,for-while,false,
+In Search of an Easy Problem,https://codeforces.com/problemset/problem/1030/A,codeforces,easy,for-while,false,
+George and Accommodation,https://codeforces.com/problemset/problem/467/A,codeforces,easy,for-while,false,
+Drinks,https://codeforces.com/problemset/problem/200/B,codeforces,easy,for-while,false,
+Vanya and Fence,https://codeforces.com/problemset/problem/677/A,codeforces,easy,for-while,false,
+Tram,https://codeforces.com/problemset/problem/116/A,codeforces,easy,for-while,false,
+Beautiful Matrix,https://codeforces.com/problemset/problem/263/A,codeforces,easy,for-while,false,
+Bear and Big Brother,https://codeforces.com/problemset/problem/791/A,codeforces,easy,for-while,false,
+Team,https://codeforces.com/problemset/problem/231/A,codeforces,easy,for-while,false,
+Vanya and Fence,https://codeforces.com/problemset/problem/677/A,codeforces,easy,for-while,false,
+Wrong Subtraction,https://codeforces.com/problemset/problem/977/A,codeforces,easy,for-while,false,
+Young Physicist,https://codeforces.com/problemset/problem/69/A,codeforces,easy,for-while,false,
+For Loop,https://www.hackerrank.com/challenges/c-tutorial-for-loop/problem,hackerrank,easy,for-while,false,
+A Different Problem,https://open.kattis.com/problems/different,kattis,easy,for-while,false,
+Some Sums,https://atcoder.jp/contests/abc083/tasks/abc083_b,atcoder,medium,for-while,false,
+Shift only,https://atcoder.jp/contests/abc081/tasks/abc081_b,atcoder,medium,for-while,false,
+Doubled,https://atcoder.jp/contests/abc196/tasks/abc196_c,atcoder,medium,for-while,false,
+Upscaling,https://codeforces.com/problemset/problem/1950/B,codeforces,medium,for-while,false,
+From Hero to Zero,https://codeforces.com/problemset/problem/1175/A,codeforces,medium,for-while,false,
+Nearly Lucky Number,https://codeforces.com/problemset/problem/110/A,codeforces,medium,for-while,false,
+Kefa and First Steps,https://codeforces.com/problemset/problem/580/A,codeforces,medium,for-while,false,
+IQ test,https://codeforces.com/problemset/problem/25/A,codeforces,medium,for-while,false,
+Mandelbrot,https://open.kattis.com/problems/mandelbrot,kattis,medium,for-while,false,
+Coins,https://atcoder.jp/contests/abc087/tasks/abc087_b,atcoder,hard,for-while,false,
+Unexpressed,https://atcoder.jp/contests/abc193/tasks/abc193_c,atcoder,hard,for-while,false,
+Clock and Strings,https://codeforces.com/problemset/problem/1971/C,codeforces,hard,for-while,false,
+Project Euler #1: Multiples of 3 and 5,https://www.hackerrank.com/contests/projecteuler/challenges/euler001/problem,hackerrank,hard,for-while,false,
+Permutation Check,https://atcoder.jp/contests/abc205/tasks/abc205_b,atcoder,easy,arrays,false,
+Forest Queries,https://cses.fi/problemset/task/1652,cses,easy,arrays,false,
+Breed Counting,https://usaco.org/index.php?page=viewproblem2&cpid=572,usaco,easy,arrays,false,
+Static Range Sum,https://judge.yosupo.jp/problem/static_range_sum,yosupo,easy,arrays,false,
+Long Sequence,https://atcoder.jp/contests/abc220/tasks/abc220_c,atcoder,medium,arrays,false,
+GCD on Blackboard,https://atcoder.jp/contests/abc125/tasks/abc125_c,atcoder,medium,arrays,false,
+Greg and Array,https://codeforces.com/contest/295/problem/A,codeforces,medium,arrays,false,
+Maximum Subarray Sum,https://cses.fi/problemset/task/1643,cses,medium,arrays,false,
+Hoof Paper Scissors,https://usaco.org/index.php?page=viewproblem2&cpid=691,usaco,medium,arrays,false,
+Subsequences Summing to Sevens,https://usaco.org/index.php?page=viewproblem2&cpid=595,usaco,medium,arrays,false,
+Squared Error,https://atcoder.jp/contests/abc194/tasks/abc194_c,atcoder,hard,arrays,false,
+Takahashi's Information,https://atcoder.jp/contests/abc088/tasks/abc088_c,atcoder,hard,arrays,false,
+Portal,https://codeforces.com/contest/2200/problem/D,codeforces,hard,arrays,false,
+AcCepted,https://atcoder.jp/contests/abc104/tasks/abc104_b,atcoder,easy,strings,false,
+Postal Code,https://atcoder.jp/contests/abc084/tasks/abc084_b,atcoder,easy,strings,false,
+Station and Bus,https://atcoder.jp/contests/abc158/tasks/abc158_a,atcoder,easy,strings,false,
+Magnets,https://codeforces.com/problemset/problem/344/A,codeforces,easy,strings,false,
+Bit++,https://codeforces.com/problemset/problem/282/A,codeforces,easy,strings,false,
+Ultra-fast Mathematician,https://codeforces.com/problemset/problem/61/A,codeforces,easy,strings,false,
+Anton and Danik,https://codeforces.com/problemset/problem/734/A,codeforces,easy,strings,false,
+Way Too Long Words,https://codeforces.com/problemset/problem/71/A,codeforces,easy,strings,false,
+Word Capitalization,https://codeforces.com/problemset/problem/281/A,codeforces,easy,strings,false,
+Petya and Strings,https://codeforces.com/problemset/problem/112/A,codeforces,easy,strings,false,
+Translation,https://codeforces.com/problemset/problem/41/A,codeforces,easy,strings,false,
+Chat room,https://codeforces.com/problemset/problem/58/A,codeforces,easy,strings,false,
+String Task,https://codeforces.com/problemset/problem/118/A,codeforces,easy,strings,false,
+Rotation,https://atcoder.jp/contests/abc258/tasks/abc258_c,atcoder,medium,strings,false,
+ss,https://atcoder.jp/contests/abc066/tasks/abc066_b,atcoder,medium,strings,false,
+Daydream,https://atcoder.jp/contests/abc049/tasks/arc065_a,atcoder,medium,strings,false,
+Queue at the School,https://codeforces.com/problemset/problem/266/B,codeforces,medium,strings,false,
+Dubstep,https://codeforces.com/problemset/problem/208/A,codeforces,medium,strings,false,
+Obtain The String,https://codeforces.com/problemset/problem/1295/C,codeforces,hard,strings,false,
+Remove the Substring (easy version),https://codeforces.com/contest/1203/problem/D1,codeforces,hard,strings,false,
+Say No to Palindromes,https://codeforces.com/problemset/problem/1555/D,codeforces,hard,strings,false,
+Counting 2,https://atcoder.jp/contests/abc231/tasks/abc231_c,atcoder,easy,stl-algorithms,false,
+Guidebook,https://atcoder.jp/contests/abc128/tasks/abc128_b,atcoder,easy,stl-algorithms,false,
+Interesting drink,https://codeforces.com/problemset/problem/706/B,codeforces,easy,stl-algorithms,false,
+Queries about less or equal elements,https://codeforces.com/problemset/problem/600/B,codeforces,easy,stl-algorithms,false,
+Worms,https://codeforces.com/problemset/problem/474/B,codeforces,easy,stl-algorithms,false,
+Cheese,https://atcoder.jp/contests/abc229/tasks/abc229_c,atcoder,medium,stl-algorithms,false,
+Range Count Query,https://atcoder.jp/contests/abc248/tasks/abc248_d,atcoder,medium,stl-algorithms,false,
+Rank List,https://codeforces.com/problemset/problem/166/A,codeforces,medium,stl-algorithms,false,
+Reimu Hakurei and the Youkai,https://codeforces.com/contest/2288/problem/C,codeforces,medium,stl-algorithms,false,
+Number of Pairs,https://codeforces.com/problemset/problem/1538/C,codeforces,medium,stl-algorithms,false,
+Sum of Two Values,https://cses.fi/problemset/task/1640,cses,medium,stl-algorithms,false,
+Restaurant Customers,https://cses.fi/problemset/task/1619,cses,medium,stl-algorithms,false,
+Wonderful Coloring - 2,https://codeforces.com/problemset/problem/1551/B2,codeforces,hard,stl-algorithms,false,
+gacha,https://atcoder.jp/contests/abc164/tasks/abc164_c,atcoder,easy,stl-associative,false,
+The Kth Time Query,https://atcoder.jp/contests/abc235/tasks/abc235_c,atcoder,easy,stl-associative,false,
+Is your horseshoe on the other hoof,https://codeforces.com/problemset/problem/228/A,codeforces,easy,stl-associative,false,
+Registration system,https://codeforces.com/problemset/problem/4/C,codeforces,easy,stl-associative,false,
+Boxes Packing,https://codeforces.com/problemset/problem/903/C,codeforces,easy,stl-associative,false,
+Distinct Numbers,https://cses.fi/problemset/task/1621,cses,easy,stl-associative,false,
+Max - Min Query,https://atcoder.jp/contests/abc253/tasks/abc253_c,atcoder,medium,stl-associative,false,
+Colorful Candies,https://atcoder.jp/contests/abc210/tasks/abc210_c,atcoder,medium,stl-associative,false,
+Winner,https://codeforces.com/contest/2/problem/A,codeforces,medium,stl-associative,false,
+Concert Tickets,https://cses.fi/problemset/task/1091,cses,medium,stl-associative,false,
+Towers,https://cses.fi/problemset/task/1073,cses,medium,stl-associative,false,
+Sequence Query,https://atcoder.jp/contests/abc241/tasks/abc241_d,atcoder,hard,stl-associative,false,
+Array Destruction,https://codeforces.com/problemset/problem/1474/C,codeforces,hard,stl-associative,false,
+Traffic Lights,https://cses.fi/problemset/task/1163,cses,hard,stl-associative,false,
+Playlist,https://cses.fi/problemset/task/1141,cses,hard,stl-associative,false,
+Apple Division,https://cses.fi/problemset/task/1623,cses,easy,complete-search,false,
+Creating Strings,https://cses.fi/problemset/task/1622,cses,easy,complete-search,false,
+Chessboard and Queens,https://cses.fi/problemset/task/1624,cses,medium,complete-search,false,
+Beautiful Permutation II,https://cses.fi/problemset/task/3175,cses,medium,complete-search,false,
+Sudoku,https://vjudge.net/problem/HackerRank-sudoku/origin,hackerrank,medium,complete-search,false,
+Air Cownditioning II,https://usaco.org/index.php?page=viewproblem2&cpid=1276,usaco,medium,complete-search,false,
+Livestock Lineup,https://usaco.org/index.php?page=viewproblem2&cpid=965,usaco,medium,complete-search,false,
+Three Logos,https://codeforces.com/problemset/problem/581/D,codeforces,hard,complete-search,false,
+Interesting drink,https://codeforces.com/problemset/problem/706/B,codeforces,easy,binary-search,false,
+Factory Machines,https://cses.fi/problemset/task/1620,cses,easy,binary-search,false,
+Range Count Query,https://atcoder.jp/contests/abc248/tasks/abc248_d,atcoder,medium,binary-search,false,
+Triangles,https://atcoder.jp/contests/abc143/tasks/abc143_d,atcoder,medium,binary-search,false,
+Buy an Integer,https://atcoder.jp/contests/abc146/tasks/abc146_c,atcoder,medium,binary-search,false,
+Youmu Konpaku and the Duel,https://codeforces.com/contest/2288/problem/A,codeforces,medium,binary-search,false,
+Chat Ban,https://codeforces.com/problemset/problem/1612/C,codeforces,medium,binary-search,false,
+Books,https://codeforces.com/problemset/problem/279/B,codeforces,medium,binary-search,false,
+Maximum Median,https://codeforces.com/problemset/problem/1201/C,codeforces,medium,binary-search,false,
+Magic Powder 2,https://codeforces.com/problemset/problem/670/D2,codeforces,medium,binary-search,false,
+Sagheer and Nubian Market,https://codeforces.com/problemset/problem/812/C,codeforces,medium,binary-search,false,
+NN and the Optical Illusion,https://codeforces.com/problemset/problem/1100/C,codeforces,medium,binary-search,false,
+Hamburgers,https://codeforces.com/problemset/problem/371/C,codeforces,medium,binary-search,false,
+Maximize the Remaining Coins,https://atcoder.jp/contests/abc216/tasks/abc216_e,atcoder,hard,binary-search,false,
+Yet Another Black Cell Problem,https://codeforces.com/contest/2272/problem/C,codeforces,hard,binary-search,false,
+Keshi Is Throwing a Party,https://codeforces.com/problemset/problem/1610/C,codeforces,hard,binary-search,false,
+The Meeting Place Cannot Be Changed,https://codeforces.com/problemset/problem/782/B,codeforces,hard,binary-search,false,
+Present,https://codeforces.com/problemset/problem/460/C,codeforces,hard,binary-search,false,
+Array Division,https://cses.fi/problemset/task/1085,cses,hard,binary-search,false,
+Multiplication Table,https://cses.fi/problemset/task/2422,cses,hard,binary-search,false,
+Yukari Yakumo and the Boundary Stones (Hard Version),https://codeforces.com/contest/2288/problem/B2,codeforces,medium,constructive,false,
+Find The Zero,https://codeforces.com/contest/2209/problem/C,codeforces,easy,interactive,false,
+Mortal Kombat Tower,https://codeforces.com/problemset/problem/1418/C,codeforces,easy,dp,false,
+Yukari Yakumo and the Boundary Stones (Easy Version),https://codeforces.com/contest/2288/problem/B1,codeforces,easy,dp,false,
+Dice Combinations,https://cses.fi/problemset/task/1633/,cses,easy,dp,false,
+Minimizing Coins,https://cses.fi/problemset/task/1634/,cses,easy,dp,false,
+Removing Digits,https://cses.fi/problemset/task/1637/,cses,easy,dp,false,
+Coin Combinations I,https://cses.fi/problemset/task/1635,cses,easy,dp,false,
+"Hoof, Paper, Scissors",https://usaco.org/index.php?page=viewproblem2&cpid=694,usaco,easy,dp,false,
+Palindromic Characteristics,https://codeforces.com/problemset/problem/835/D,codeforces,medium,dp,false,
+Coin Combinations II,https://cses.fi/problemset/task/1636/,cses,medium,dp,false,
+Phidias,https://dmoj.ca/problem/ioi04p4,dmoj,medium,dp,false,
+Time is Mooney,https://usaco.org/index.php?page=viewproblem2&cpid=993,usaco,medium,dp,false,
+Increasing Frequency,https://codeforces.com/problemset/problem/1082/E,codeforces,hard,dp,false,
+Sherlock and His Girlfriend,https://codeforces.com/problemset/problem/776/B,codeforces,easy,sieve,false,
+Noldbach problem,https://codeforces.com/problemset/problem/17/A,codeforces,easy,sieve,false,
+T-primes,https://codeforces.com/problemset/problem/230/B,codeforces,easy,sieve,false,
+Count Primes,https://leetcode.com/problems/count-primes/,leetcode,easy,sieve,false,
+Closest Prime Numbers in Range,https://leetcode.com/problems/closest-prime-numbers-in-range/,leetcode,easy,sieve,false,
+Printing Some Primes,https://www.spoj.com/problems/TDPRIMES/,spoj,easy,sieve,false,
+Divide by 2 or 3,https://atcoder.jp/contests/abc276/tasks/abc276_d,atcoder,medium,sieve,false,
+Coprime 2,https://atcoder.jp/contests/abc215/tasks/abc215_d,atcoder,medium,sieve,false,
+Factorial and Multiple,https://atcoder.jp/contests/abc280/tasks/abc280_d,atcoder,medium,sieve,false,
+Disjoint Set of Common Divisors,https://atcoder.jp/contests/abc142/tasks/abc142_d,atcoder,medium,sieve,false,
+Not Divisible,https://atcoder.jp/contests/abc170/tasks/abc170_d,atcoder,medium,sieve,false,
+Almost Prime,https://codeforces.com/problemset/problem/26/A,codeforces,medium,sieve,false,
+Minimum LCM,https://codeforces.com/problemset/problem/1765/M,codeforces,medium,sieve,false,
+Colliders,https://codeforces.com/problemset/problem/154/B,codeforces,medium,sieve,false,
+Four Divisors,https://leetcode.com/problems/four-divisors/,leetcode,medium,sieve,false,
+N-Factorful,https://www.spoj.com/problems/NFACTOR/,spoj,medium,sieve,false,
+Prime Generator,https://www.spoj.com/problems/PRIME1/,spoj,medium,sieve,false,
+Primal Fear,https://www.spoj.com/problems/FEAR/,spoj,medium,sieve,false,
+Namit in Trouble,https://www.spoj.com/problems/NGIRL/,spoj,medium,sieve,false,
+A Conjecture of Paul Erdos,https://www.spoj.com/problems/PAUL/,spoj,medium,sieve,false,
+Static Range Minimum Queries,https://cses.fi/problemset/task/1647,cses,easy,sparse-table,false,
+Where's My Water?,https://codeforces.com/contest/2207/problem/C,codeforces,medium,sparse-table,false,
+Array Stabilization (GCD Version),https://codeforces.com/problemset/problem/1547/F,codeforces,medium,sparse-table,false,
+Building Teams,https://cses.fi/problemset/task/1668,cses,easy,bipartite-graph,false,
+A Bugs Life,https://www.spoj.com/problems/BUGLIFE,spoj,easy,bipartite-graph,false,
+String Coloring (easy version),https://codeforces.com/contest/1296/problem/E1,codeforces,medium,bipartite-graph,false,
+Alternating Path,https://codeforces.com/contest/2204/problem/D,codeforces,medium,bipartite-graph,false,
+Graph Without Long Directed Paths,https://codeforces.com/contest/1144/problem/F,codeforces,hard,bipartite-graph,false,
