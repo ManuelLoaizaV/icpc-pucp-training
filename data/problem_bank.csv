@@ -186,6 +186,7 @@ Prime Generator,https://www.spoj.com/problems/PRIME1/,spoj,medium,sieve,false,
 Primal Fear,https://www.spoj.com/problems/FEAR/,spoj,medium,sieve,false,
 Namit in Trouble,https://www.spoj.com/problems/NGIRL/,spoj,medium,sieve,false,
 A Conjecture of Paul Erdos,https://www.spoj.com/problems/PAUL/,spoj,medium,sieve,false,
+Dynamic Range Sum Queries,https://cses.fi/problemset/task/1648/,cses,easy,fenwick-tree,true,[Template]
 Static Range Minimum Queries,https://cses.fi/problemset/task/1647,cses,easy,sparse-table,false,
 Where's My Water?,https://codeforces.com/contest/2207/problem/C,codeforces,medium,sparse-table,false,
 Array Stabilization (GCD Version),https://codeforces.com/problemset/problem/1547/F,codeforces,medium,sparse-table,false,

@@ -41,6 +41,7 @@ class LectureTag(StrEnum):
     INTERACTIVE = "interactive"
     DP = "dp"
     SIEVE = "sieve"
+    FENWICK_TREE = "fenwick-tree"
     SPARSE_TABLE = "sparse-table"
     BIPARTITE_GRAPH = "bipartite-graph"
 
