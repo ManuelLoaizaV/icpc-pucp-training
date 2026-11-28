@@ -20,6 +20,7 @@ class Judge(StrEnum):
     SPOJ = "spoj"
     YOSUPO = "yosupo"
     DMOJ = "dmoj"
+    COJ = "coj"
     LEETCODE = "leetcode"
 
 
@@ -41,6 +42,7 @@ class LectureTag(StrEnum):
     INTERACTIVE = "interactive"
     DP = "dp"
     SIEVE = "sieve"
+    DISJOINT_SETS = "dsu"
     FENWICK_TREE = "fenwick-tree"
     SPARSE_TABLE = "sparse-table"
     BIPARTITE_GRAPH = "bipartite-graph"

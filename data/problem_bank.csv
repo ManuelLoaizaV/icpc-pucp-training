@@ -187,6 +187,9 @@ Prime Generator,https://www.spoj.com/problems/PRIME1/,spoj,medium,sieve,false,
 Primal Fear,https://www.spoj.com/problems/FEAR/,spoj,medium,sieve,false,
 Namit in Trouble,https://www.spoj.com/problems/NGIRL/,spoj,medium,sieve,false,
 A Conjecture of Paul Erdos,https://www.spoj.com/problems/PAUL/,spoj,medium,sieve,false,
+Unionfind,https://judge.yosupo.jp/problem/unionfind,yosupo,easy,dsu,true,[Template]
+Road Construction,https://cses.fi/problemset/task/1676,cses,easy,dsu,false,
+Regalos para Jerry,https://coj.157-180-26-18.sslip.io/24h/problems/2756,coj,medium,dsu,false,Sort input and queries.
 Dynamic Range Sum Queries,https://cses.fi/problemset/task/1648/,cses,easy,fenwick-tree,true,[Template]
 Mega Inversions,https://open.kattis.com/problems/megainversions,kattis,easy,fenwick-tree,false,Use 2 FTs.
 List Removals,https://cses.fi/problemset/task/1749/,cses,medium,fenwick-tree,false,Simulate OST find_by_order with a FT.
